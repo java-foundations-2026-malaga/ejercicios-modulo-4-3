@@ -4,5 +4,6 @@ public class Actividad06 {
     public static void main(String[] args) {
         String name = "Ana";
         // TODO
+        System.out.println(name + " tiene " + name.length() + " caracteres");
     }
 }
